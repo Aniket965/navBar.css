@@ -6,6 +6,6 @@
 
 `navBAr.css` have many navigation bars that you can directly use in your projects:
 #
-[simple navigation bar demo](http://codepen.io/aniket965as/pen/yVKyoB)
+[simple navigation bar demo](http://codepen.io/aniket965as/full/yVKyoB)
 
 
