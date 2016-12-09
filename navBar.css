@@ -25,7 +25,7 @@
     padding: 0;
     overflow: hidden;
 }
-.navElementBox {
+.simpleNavBarElement {
     display: block;
     color: white;
     text-align: center;
@@ -35,4 +35,16 @@
 
 .hoverBackgroundRed:hover{
    background-color: red;
+}
+
+.hoverBackgroundBlack:hover{
+   background-color: Black;
+}
+
+.hoverBackgroundGreen:hover{
+   background-color: green;
+}
+
+.hoverBackgroundYellow:hover{
+   background-color: yellow;
 }
